@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/NamozBot/static/css/main.85553ad1.css",
+    "main.js": "/NamozBot/static/js/main.3488cebf.js",
+    "static/media/uchinchi.jpg": "/NamozBot/static/media/uchinchi.54f47684cd0d00a44e01.jpg",
+    "static/media/katta.jpg": "/NamozBot/static/media/katta.ed29462ff7f0376c6b0c.jpg",
+    "static/media/eshonbobo.jpg": "/NamozBot/static/media/eshonbobo.d154869dc6e0732bc0f9.jpg",
+    "index.html": "/NamozBot/index.html",
+    "main.85553ad1.css.map": "/NamozBot/static/css/main.85553ad1.css.map",
+    "main.3488cebf.js.map": "/NamozBot/static/js/main.3488cebf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85553ad1.css",
+    "static/js/main.3488cebf.js"
+  ]
+}
